@@ -1,0 +1,2 @@
+- Create 'add changes' that adds local changes & summarizes changes
+- Create 'push' to push data to remote
